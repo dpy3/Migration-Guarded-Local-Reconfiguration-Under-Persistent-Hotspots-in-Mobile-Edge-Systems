@@ -2,8 +2,9 @@
 
 ## Dataset and code package identity
 
-- **Dataset title:** Migration-Guarded Local Reconfiguration Under Persistent Hotspots in Mobile Edge Systems
-- **Code and data package:** Paper 2 - Budgeted State-Preserving Local Reconfiguration
+- **Dataset title:** MGR-PH
+- **Full dataset title:** Migration-Guarded Local Reconfiguration Under Persistent Hotspots in Mobile Edge Systems
+- **Code and data package:** MGR-PH
 - **Repository:** `dpy3/Migration-Guarded-Local-Reconfiguration-Under-Persistent-Hotspots-in-Mobile-Edge-Systems`
 
 This repository contains the source code, simulator-generated data, analysis

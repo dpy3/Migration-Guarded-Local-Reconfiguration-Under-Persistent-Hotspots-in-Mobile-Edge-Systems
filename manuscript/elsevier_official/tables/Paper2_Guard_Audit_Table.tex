@@ -1,0 +1,16 @@
+\begin{table}[H]
+\centering
+\caption{Formal audit of BudgetedLNS trial-level guard and final-repair overrides (30 runs per persistent-hotspot scenario, $N=180$, 200 slots, $\rho=0.05$, $B=9$). ``Repair overrides/run'' is the mean number of recorded final-repair override events per 200-slot run; ``maximum excess'' is the largest recorded $\max(0,\mathrm{final\ migrations}-B)$ across the 30 runs.}
+\label{tab:guard-audit}
+\scriptsize
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{lrrr}
+\toprule
+Scenario & $B$ & Repair overrides/run & Maximum excess \\
+\midrule
+Compute hotspot & 9 & 0.90 & 3 \\
+Link hotspot & 9 & 0.60 & 6 \\
+Coupled hotspot & 9 & 1.33 & 5 \\
+\bottomrule
+\end{tabular}
+\end{table}

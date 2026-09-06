@@ -2,11 +2,13 @@
 
 ## Dataset title
 
-Migration-Guarded Local Reconfiguration Under Persistent Hotspots in Mobile Edge Systems
+MGR-PH
 
-## Associated code package
+Full title: Migration-Guarded Local Reconfiguration Under Persistent Hotspots in Mobile Edge Systems
 
-Paper 2 - Budgeted State-Preserving Local Reconfiguration
+## Associated code and data package
+
+MGR-PH
 
 ## Contents
 

@@ -1,0 +1,5 @@
+State-preserving reconfiguration is studied for persistent MEC hotspots.
+BudgetedLNS guards local trials and records final-repair budget excess.
+Across 90 paired runs, migrations fall by 96% versus FullResched and HIVE.
+The 1% budget needs frequent repair overrides; 5% and 10% are operating points.
+Claims are limited to N=180, three hotspot types, and one simulator.

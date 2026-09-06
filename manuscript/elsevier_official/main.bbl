@@ -1,0 +1,166 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{mach2017mec}
+P.~Mach, Z.~Becvar, Mobile edge computing: A survey on architecture and
+  computation offloading, IEEE Communications Surveys \& Tutorials 19~(3)
+  (2017) 1628--1656.
+\newblock \href {https://doi.org/10.1109/COMST.2017.2682318}
+  {\path{doi:10.1109/COMST.2017.2682318}}.
+
+\bibitem{mao2017survey}
+Y.~Mao, C.~You, J.~Zhang, K.~Huang, K.~B. Letaief, A survey on mobile edge
+  computing: The communication perspective, IEEE Communications Surveys \&
+  Tutorials 19~(4) (2017) 2322--2358.
+\newblock \href {https://doi.org/10.1109/COMST.2017.2745201}
+  {\path{doi:10.1109/COMST.2017.2745201}}.
+
+\bibitem{shi2016edge}
+W.~Shi, J.~Cao, Q.~Zhang, Y.~Li, L.~Xu, Edge computing: Vision and challenges,
+  IEEE Internet of Things Journal 3~(5) (2016) 637--646.
+\newblock \href {https://doi.org/10.1109/JIOT.2016.2579198}
+  {\path{doi:10.1109/JIOT.2016.2579198}}.
+
+\bibitem{abbas2018mec}
+N.~Abbas, Y.~Zhang, A.~Taherkordi, T.~Skeie, Mobile edge computing: A survey,
+  IEEE Internet of Things Journal 5~(1) (2018) 450--465.
+\newblock \href {https://doi.org/10.1109/JIOT.2017.2750180}
+  {\path{doi:10.1109/JIOT.2017.2750180}}.
+
+\bibitem{wang2018migration}
+S.~Wang, J.~Xu, N.~Zhang, Y.~Liu, A survey on service migration in mobile edge
+  computing, IEEE Access 6 (2018) 23511--23528.
+\newblock \href {https://doi.org/10.1109/ACCESS.2018.2828102}
+  {\path{doi:10.1109/ACCESS.2018.2828102}}.
+
+\bibitem{oleghe2021migration}
+O.~Oleghe, Container placement and migration in edge computing: Concept and
+  scheduling models, IEEE Access 9 (2021) 68028--68043.
+\newblock \href {https://doi.org/10.1109/ACCESS.2021.3077550}
+  {\path{doi:10.1109/ACCESS.2021.3077550}}.
+
+\bibitem{ouyang2018follow}
+T.~Ouyang, Z.~Zhou, X.~Chen, Follow me at the edge: Mobility-aware dynamic
+  service placement for mobile edge computing, IEEE Journal on Selected Areas
+  in Communications 36~(10) (2018) 2333--2345.
+\newblock \href {https://doi.org/10.1109/JSAC.2018.2869954}
+  {\path{doi:10.1109/JSAC.2018.2869954}}.
+
+\bibitem{zhao2020maesp}
+X.~Zhao, Y.~Shi, S.~Chen, Maesp: Mobility aware edge service placement in
+  mobile edge networks, Computer Networks 182 (2020) 107435.
+\newblock \href {https://doi.org/10.1016/j.comnet.2020.107435}
+  {\path{doi:10.1016/j.comnet.2020.107435}}.
+
+\bibitem{ray2020proactive}
+K.~Ray, A.~Banerjee, N.~C. Narendra, Proactive microservice placement and
+  migration for mobile edge computing, in: 2020 IEEE/ACM Symposium on Edge
+  Computing, 2020, pp. 28--41.
+\newblock \href {https://doi.org/10.1109/SEC50012.2020.00010}
+  {\path{doi:10.1109/SEC50012.2020.00010}}.
+
+\bibitem{xu2021pdma}
+M.~Xu, Q.~Zhou, H.~Wu, W.~Lin, K.~Ye, C.~Xu, Pdma: Probabilistic service
+  migration approach for delay-aware and mobility-aware mobile edge computing,
+  Software: Practice and Experience 52~(2) (2021) 394--414.
+\newblock \href {https://doi.org/10.1002/SPE.3014}
+  {\path{doi:10.1002/SPE.3014}}.
+
+\bibitem{bozkaya2023dtmigration}
+E.~Bozkaya, Digital twin-assisted and mobility-aware service migration in
+  mobile edge computing, Computer Networks 231 (2023) 109798.
+\newblock \href {https://doi.org/10.1016/J.COMNET.2023.109798}
+  {\path{doi:10.1016/J.COMNET.2023.109798}}.
+
+\bibitem{li2021cachemigration}
+C.~Li, L.~Zhu, W.~Li, Y.~Luo, Joint edge caching and dynamic service migration
+  in sdn based mobile edge computing, Journal of Network and Computer
+  Applications 177 (2021) 102966.
+\newblock \href {https://doi.org/10.1016/J.JNCA.2020.102966}
+  {\path{doi:10.1016/J.JNCA.2020.102966}}.
+
+\bibitem{li2022dqnmigration}
+C.~Li, Y.~Zhang, X.~Gao, Y.~Luo, Energy-latency tradeoffs for edge caching and
+  dynamic service migration based on dqn in mobile edge computing, Journal of
+  Parallel and Distributed Computing 166 (2022) 15--31.
+\newblock \href {https://doi.org/10.1016/J.JPDC.2022.03.001}
+  {\path{doi:10.1016/J.JPDC.2022.03.001}}.
+
+\bibitem{brandherm2022bigmec}
+F.~Brandherm, J.~Gedeon, O.~Abboud, M.~Muhlhauser, Bigmec: Scalable service
+  migration for mobile edge computing, in: 2022 IEEE/ACM 7th Symposium on Edge
+  Computing, 2022, pp. 136--148.
+\newblock \href {https://doi.org/10.1109/SEC54971.2022.00018}
+  {\path{doi:10.1109/SEC54971.2022.00018}}.
+
+\bibitem{brandherm2024bigmecsoftware}
+{flbrandh},
+  \href{https://doi.org/10.5281/zenodo.10810301}{flbrandh/mec-simulator-2-bigmec:
+  v1.0}, Zenodo software archive (2024).
+\newblock \href {https://doi.org/10.5281/zenodo.10810301}
+  {\path{doi:10.5281/zenodo.10810301}}.
+\newline\urlprefix\url{https://doi.org/10.5281/zenodo.10810301}
+
+\bibitem{mao2016dynamic}
+Y.~Mao, J.~Zhang, K.~B. Letaief, Dynamic computation offloading for mobile-edge
+  computing with energy harvesting devices, IEEE Journal on Selected Areas in
+  Communications 34~(12) (2016) 3590--3605.
+\newblock \href {https://doi.org/10.1109/JSAC.2016.2611964}
+  {\path{doi:10.1109/JSAC.2016.2611964}}.
+
+\bibitem{bi2021lyapunov}
+S.~Bi, L.~Huang, H.~Wang, Y.-J.~A. Zhang, Lyapunov-guided deep reinforcement
+  learning for stable online computation offloading in mobile-edge computing
+  networks, IEEE Transactions on Wireless Communications 20~(11) (2021)
+  7519--7537.
+\newblock \href {https://doi.org/10.1109/TWC.2021.3085319}
+  {\path{doi:10.1109/TWC.2021.3085319}}.
+
+\bibitem{li2021asyncoffload}
+X.~Li, X.~Zhang, T.~Huang, Asynchronous online service placement and task
+  offloading for mobile edge computing, in: 2021 18th Annual IEEE International
+  Conference on Sensing, Communication, and Networking, 2021, pp. 1--9.
+\newblock \href {https://doi.org/10.1109/SECON52354.2021.9491595}
+  {\path{doi:10.1109/SECON52354.2021.9491595}}.
+
+\bibitem{li2023twotimescale}
+X.~Li, X.~Zhang, T.~Huang, Joint task offloading and service placement for
+  mobile edge computing: An online two-timescale approach, IEEE Transactions on
+  Cloud Computing 11~(4) (2023) 3656--3671.
+\newblock \href {https://doi.org/10.1109/TCC.2023.3312283}
+  {\path{doi:10.1109/TCC.2023.3312283}}.
+
+\bibitem{chen2024adaptiveplacement}
+L.~Chen, Y.~Bai, P.~Zhou, Y.~Li, Z.~Qu, J.~Xu, On adaptive edge microservice
+  placement: A reinforcement learning approach endowed with graph
+  comprehension, IEEE Transactions on Mobile Computing 23~(12) (2024)
+  11144--11158.
+\newblock \href {https://doi.org/10.1109/TMC.2024.3396510}
+  {\path{doi:10.1109/TMC.2024.3396510}}.
+
+\bibitem{ray2024learningmigration}
+K.~Ray, A.~Banerjee, N.~C. Narendra, Learning-based microservice placement and
+  migration for multi-access edge computing, IEEE Transactions on Network and
+  Service Management 21~(2) (2024) 1969--1982.
+\newblock \href {https://doi.org/10.1109/TNSM.2023.3344192}
+  {\path{doi:10.1109/TNSM.2023.3344192}}.
+
+\bibitem{hou2016reconfig}
+I.-H. Hou, T.~Zhao, S.~Wang, K.~Chan, Asymptotically optimal algorithm for
+  online reconfiguration of edge-clouds, in: Proceedings of the 17th ACM
+  International Symposium on Mobile Ad Hoc Networking and Computing, 2016, pp.
+  291--300.
+\newblock \href {https://doi.org/10.1145/2942358.2942363}
+  {\path{doi:10.1145/2942358.2942363}}.
+
+\bibitem{pisinger2010lns}
+D.~Pisinger, S.~Ropke, Large neighborhood search, in: Handbook of
+  Metaheuristics, Springer US, 2010, pp. 399--419.
+\newblock \href {https://doi.org/10.1007/978-1-4419-1665-5_13}
+  {\path{doi:10.1007/978-1-4419-1665-5_13}}.
+
+\end{thebibliography}

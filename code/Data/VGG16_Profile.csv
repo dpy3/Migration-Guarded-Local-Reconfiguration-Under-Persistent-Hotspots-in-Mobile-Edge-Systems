@@ -1,0 +1,7 @@
+Layer_ID,Layer_Type,Output_Data_MB,Comp_GFLOPs,Jetson_Nano_Latency_ms,Pi4B_Latency_ms
+1,Conv1,150.0,0.25,45.2,180.5
+2,Conv2,75.0,2.5,120.5,650.2
+3,Pool1,37.5,0.1,15.0,60.1
+4,Conv3,18.8,5.5,250.1,1400.5
+5,Pool2,9.4,0.1,10.2,40.5
+6,FC,0.004,0.5,25.5,110.2
