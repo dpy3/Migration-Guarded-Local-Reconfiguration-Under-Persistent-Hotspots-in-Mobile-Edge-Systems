@@ -210,8 +210,13 @@ admission and rejection transitions are not counted. After the selected
 local candidate is fixed, the solver applies its final repair and records
 whether the repaired solver output exceeds \(B\). We denote the recorded
 excess by \(\mathrm{excess}=\max(0,\mathrm{final\ migrations}-B)\).
-The evaluation runner then applies the same final feasibility-repair
-operator to every compared method. The frozen primary setting uses
+The evaluation runner then applies the same post-solver feasibility-repair
+operator to every compared method. BudgetedLNS also invokes this repair
+inside each local trial and after selecting its local candidate; those calls
+are part of the solver, whereas the runner call defines the common state
+used for the reported metrics. The recorded override is computed from that
+post-runner state relative to the previous repaired assignment. The frozen
+primary setting uses
 \(\rho=0.05\), hence \(B=9\). This is a trial-level screening budget, not a
 hard upper bound on the final repaired schedule. We report mean satisfaction,
 total node-to-node migrations, the profile-derived \texttt{MigrationMB}
