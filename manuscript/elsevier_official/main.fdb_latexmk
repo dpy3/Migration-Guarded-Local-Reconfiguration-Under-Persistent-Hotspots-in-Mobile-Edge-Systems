@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1786177090.92365 "main.aux" "main.bbl" "main" 1786177095.59464 0
+["bibtex main"] 1788692599.63921 "main.aux" "main.bbl" "main" 1788692604.30132 0
   "./elsarticle-num.bst" 1762670854 29462 3b2a1af2ce1e224a3b46ee048ffd4b98 ""
   "./references.bib" 1785814768 7854 2cb581582c63525f2597da2f5cd4d08a ""
-  "main.aux" 1786177093 12935 88f4238f46671a19229fb76555246334 "pdflatex"
+  "main.aux" 1788692602 12942 473d04eb425b4429134966f6b2c63683 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1786177091.87581 "main.tex" "main.pdf" "main" 1786177095.59785 0
+["pdflatex"] 1788692600.34558 "main.tex" "main.pdf" "main" 1788692604.3034 0
   "e:/Application/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1762670304 2971 def0b6c1f0b107b3b936def894055589 ""
   "e:/Application/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1762671195 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "e:/Application/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1762670803 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -130,18 +130,18 @@
   "e:/Application/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1762675410 3346229 36c8a0f9099ccd7ddcdf86645f50a3ae ""
   "e:/Application/texlive/2025/texmf.cnf" 1762674992 713 e69b156964470283e0530f5060668171 ""
   "elsarticle.cls" 1762670854 45216 8d57180189bc20f55de1fd7b66d8c091 ""
-  "figures/Fig0_BudgetedLNS_Overview_PMC.pdf" 1785671350 51446 cce58fc98932746036787249902a3a97 ""
-  "figures/Fig2_Primary_Comparison.pdf" 1785816480 77255 c17abc7f9ec6aa9da661579e08a16c56 ""
-  "figures/Fig3_Paired_Effects.pdf" 1785816482 45419 0e3f533c9c5d60c60204fd7fa20bb76c ""
-  "figures/Fig4_Hotspot_Onset.pdf" 1785816485 143086 bc7cd71c35514626886160536feee380 ""
-  "figures/Fig5_Component_Ablation.pdf" 1785816487 43442 cc31c847a5261134c96e31e933ebd9fd ""
-  "figures/Fig6_Guard_Sensitivity.pdf" 1785816488 47790 f053ab72e68567d64af85840d50d3b1e ""
-  "figures/Fig7_Mechanism_Diagnostics.pdf" 1785816489 49571 396f8e8d7bb78b4831e7ff01c8b3cd40 ""
-  "main.aux" 1786177093 12935 88f4238f46671a19229fb76555246334 "pdflatex"
-  "main.bbl" 1786177091 7499 a9ef3b5c22efe51f2d9ce53dcb402c8a "bibtex main"
-  "main.out" 1786177093 4247 24de3fff38dffd521743831bb25cc6eb "pdflatex"
-  "main.spl" 1786177092 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1786177066 38174 85349fbe3cf3a383747f69129c0ea614 ""
+  "figures/Fig0_BudgetedLNS_Overview_PMC.pdf" 1788689115 51446 6f28b5ebc07ce1762db64c954c2db2ad ""
+  "figures/Fig2_Primary_Comparison.pdf" 1788689020 74864 c18a5c5cfccb313e56a4a76361e8fbb0 ""
+  "figures/Fig3_Paired_Effects.pdf" 1788689022 45328 e1af21e9b9a892721f98ee5fd002eee3 ""
+  "figures/Fig4_Hotspot_Onset.pdf" 1788689025 141305 0f3b4bf02558cd7642ab992c801a5675 ""
+  "figures/Fig5_Component_Ablation.pdf" 1788689027 42007 77ae08702a3d65c1ddeaff63301eac54 ""
+  "figures/Fig6_Guard_Sensitivity.pdf" 1788689028 46662 2e532d5a7f78ddae57153d38d83bd2ff ""
+  "figures/Fig7_Mechanism_Diagnostics.pdf" 1788689029 47409 2fbcdc8f2267a4cc71c38a5a624dc83d ""
+  "main.aux" 1788692602 12942 473d04eb425b4429134966f6b2c63683 "pdflatex"
+  "main.bbl" 1788692600 7499 a9ef3b5c22efe51f2d9ce53dcb402c8a "bibtex main"
+  "main.out" 1788692602 4247 24de3fff38dffd521743831bb25cc6eb "pdflatex"
+  "main.spl" 1788692601 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1788692584 42293 df00ef9e5329f2c8f0a7f29d8fd9fb5c ""
   "tables/Paper2_Guard_Audit_Table.tex" 1785770811 698 6590ce3cb34ff1ba398ef397ab17181e ""
   "tables/Paper2_Main_Results_Table.tex" 1785816089 1465 904bdea8f8a89876a9ed2db86ae31536 ""
   (generated)
