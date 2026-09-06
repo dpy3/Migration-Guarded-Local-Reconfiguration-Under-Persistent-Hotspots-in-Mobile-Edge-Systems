@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.9)  6 SEP 2026 19:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.9)  6 SEP 2026 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -487,7 +487,7 @@ Package hyperref Info: Link coloring OFF on input line 22.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
 
 
 (e:/Application/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -496,7 +496,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (e:/Application/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
 
 
 (e:/Application/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -513,19 +513,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 58.
+(hyperref)                removing `\<def>-command' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 58.
+(hyperref)                removing `\cnotenum' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 58.
+(hyperref)                removing `\<def>-command' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 58.
+(hyperref)                removing `\@corref' on input line 64.
 
 [1
 
@@ -542,7 +542,7 @@ pplication/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 File: figures/Fig0_BudgetedLNS_Overview_PMC.pdf Graphic file (type pdf)
 <use figures/Fig0_BudgetedLNS_Overview_PMC.pdf>
 Package pdftex.def Info: figures/Fig0_BudgetedLNS_Overview_PMC.pdf  used on inp
-ut line 281.
+ut line 287.
 (pdftex.def)             Requested size: 390.0pt x 165.36243pt.
 
 
@@ -559,7 +559,7 @@ ut line 281.
 File: figures/Fig2_Primary_Comparison.pdf Graphic file (type pdf)
 <use figures/Fig2_Primary_Comparison.pdf>
 Package pdftex.def Info: figures/Fig2_Primary_Comparison.pdf  used on input lin
-e 522.
+e 528.
 (pdftex.def)             Requested size: 390.0pt x 343.18988pt.
  (./tables/Paper2_Main_Results_Table.tex)
 (./tables/Paper2_Guard_Audit_Table.tex)
@@ -570,54 +570,53 @@ e 522.
 <figures/Fig3_Paired_Effects.pdf, id=320, 527.58856pt x 217.33395pt>
 File: figures/Fig3_Paired_Effects.pdf Graphic file (type pdf)
 <use figures/Fig3_Paired_Effects.pdf>
-Package pdftex.def Info: figures/Fig3_Paired_Effects.pdf  used on input line 57
-7.
+Package pdftex.def Info: figures/Fig3_Paired_Effects.pdf  used on input line 58
+3.
 (pdftex.def)             Requested size: 390.0pt x 160.66211pt.
-
-
-[15 <./figures/Fig3_Paired_Effects.pdf>]
-<figures/Fig4_Hotspot_Onset.pdf, id=342, 526.11295pt x 327.08998pt>
+<figures/Fig4_Hotspot_Onset.pdf, id=321, 526.11295pt x 327.08998pt>
 File: figures/Fig4_Hotspot_Onset.pdf Graphic file (type pdf)
 <use figures/Fig4_Hotspot_Onset.pdf>
-Package pdftex.def Info: figures/Fig4_Hotspot_Onset.pdf  used on input line 603
+Package pdftex.def Info: figures/Fig4_Hotspot_Onset.pdf  used on input line 609
 .
 (pdftex.def)             Requested size: 390.0pt x 242.47202pt.
 
 
-[16 <./figures/Fig4_Hotspot_Onset.pdf>]
-<figures/Fig5_Component_Ablation.pdf, id=363, 533.64732pt x 222.0054pt>
+[15]
+<figures/Fig5_Component_Ablation.pdf, id=327, 533.64732pt x 222.0054pt>
 File: figures/Fig5_Component_Ablation.pdf Graphic file (type pdf)
 <use figures/Fig5_Component_Ablation.pdf>
 Package pdftex.def Info: figures/Fig5_Component_Ablation.pdf  used on input lin
-e 630.
+e 636.
 (pdftex.def)             Requested size: 390.0pt x 162.25229pt.
-<figures/Fig7_Mechanism_Diagnostics.pdf, id=364, 527.1754pt x 189.66779pt>
+
+
+[16 <./figures/Fig3_Paired_Effects.pdf>]
+
+[17 <./figures/Fig4_Hotspot_Onset.pdf> <./figures/Fig5_Component_Ablation.pdf>]
+<figures/Fig7_Mechanism_Diagnostics.pdf, id=385, 527.1754pt x 189.66779pt>
 File: figures/Fig7_Mechanism_Diagnostics.pdf Graphic file (type pdf)
 <use figures/Fig7_Mechanism_Diagnostics.pdf>
 Package pdftex.def Info: figures/Fig7_Mechanism_Diagnostics.pdf  used on input 
-line 652.
+line 658.
 (pdftex.def)             Requested size: 390.0pt x 140.31721pt.
-
-
-[17 <./figures/Fig5_Component_Ablation.pdf>]
 <figures/Fig6_Guard_Sensitivity.pdf, id=386, 519.51752pt x 196.37177pt>
 File: figures/Fig6_Guard_Sensitivity.pdf Graphic file (type pdf)
 <use figures/Fig6_Guard_Sensitivity.pdf>
 Package pdftex.def Info: figures/Fig6_Guard_Sensitivity.pdf  used on input line
- 676.
+ 682.
 (pdftex.def)             Requested size: 390.0pt x 147.41927pt.
 
 
 [18 <./figures/Fig7_Mechanism_Diagnostics.pdf>]
 
 [19 <./figures/Fig6_Guard_Sensitivity.pdf>] (./main.bbl
-Underfull \hbox (badness 1394) in paragraph at lines 750--1
+Underfull \hbox (badness 1394) in paragraph at lines 756--1
 []\T1/cmr/m/n/12 (+20) The code and simulator-generated data are pub-licly avai
 l-able in
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 750--1
+Underfull \hbox (badness 1810) in paragraph at lines 756--1
 \T1/cmr/m/n/12 (+20) the GitHub repos-i-tory []\T1/cmr/m/it/12 (+20) Migration-
 Guarded-Local-Reconfiguration-Under-
  []
@@ -639,11 +638,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 24DE3FFF38DFFD521743831BB25CC6EB;4247.
  ) 
 Here is how much of TeX's memory you used:
- 13494 strings out of 473190
- 210694 string characters out of 5713727
- 650820 words of memory out of 5000000
+ 13496 strings out of 473190
+ 210714 string characters out of 5713727
+ 647820 words of memory out of 5000000
  36286 multiletter control sequences out of 15000+600000
- 579164 words of font info for 170 fonts, out of 8000000 for 9000
+ 579223 words of font info for 171 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,1001b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <e:/Application/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
@@ -668,7 +667,7 @@ ist/fonts/type1/public/cm-super/sfti0700.pfb><e:/Application/texlive/2025/texmf
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><e:/Application/texlive/2025/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><e:/Application/texlive/2025
 /texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (23 pages, 850222 bytes).
+Output written on main.pdf (23 pages, 850250 bytes).
 PDF statistics:
  618 PDF objects out of 1000 (max. 8388607)
  437 compressed objects within 5 object streams

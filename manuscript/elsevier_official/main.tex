@@ -40,17 +40,23 @@
 Persistent local hotspots can make slot-wise placement recomputation incur
 migration churn. We study whether retaining the previous repaired placement
 can improve service while limiting reconfiguration. We present
-\textbf{BudgetedLNS}, an implementation-level state-preserving local search that localizes candidates
-to pressured nodes, bounds the candidate pool, and applies lexicographic
-acceptance by satisfaction, migration count, and admitted latency. A trial
-above budget is rejected; any excess introduced by final feasibility repair
-is recorded, and all methods share that repair. In the implemented simulator,
-180 tasks are evaluated for 200 slots across compute, link, and coupled
-persistent hotspots with 30 paired runs. At the frozen 5\% setting,
-BudgetedLNS improves satisfaction over FullResched by 7.82--8.55 percentage points and reduces the admitted-to-admitted node-change count by 96.39--96.55\%; gains over the implemented HIVE comparator are 9.65--13.82 points with 96.74--96.88\% fewer such changes. These migration percentages exclude admission and rejection transitions and should not be read as a complete reconfiguration-volume reduction.
-Sensitivity at 1\%, 5\%, and 10\% reports repair overrides. The evidence is
-limited to this simulator, load, and hotspot protocol; 5\% is not claimed
-universally optimal.
+\textbf{BudgetedLNS}, an implementation-level state-preserving local search
+that localizes candidates to pressured nodes, bounds the candidate pool, and
+uses lexicographic acceptance by satisfaction, admitted-to-admitted node
+changes, and admitted latency. A repaired trial requiring more than the
+budget is rejected; final feasibility repair may introduce excess, which is
+recorded, and the runner applies the same post-solver repair to all methods.
+In the implemented simulator, 180 tasks are evaluated for 200 slots across
+compute, link, and coupled persistent hotspots with 30 paired runs. At the
+frozen 5\% trial-level setting, BudgetedLNS improves satisfaction over
+FullResched by 7.82--8.55 percentage points and reduces admitted-to-admitted
+node changes by 96.39--96.55\%; gains over the implemented HIVE comparator
+are 9.65--13.82 points with 96.74--96.88\% fewer such changes. These
+percentages exclude admission and rejection transitions and do not measure
+complete placement-state reconfiguration volume. Sensitivity at 1\%, 5\%,
+and 10\% reports repair overrides. The evidence is limited to this
+simulator, load, and hotspot protocol; 5\% is not claimed universally
+optimal.
 \end{abstract}
 \begin{keyword}
 mobile edge computing \sep service migration \sep local search
