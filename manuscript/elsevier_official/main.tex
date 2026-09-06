@@ -425,6 +425,11 @@ Holm-adjusted sign-flip tests therefore evaluate within-seed method
 differences. This evaluation does not claim a comparison with every
 controller class, a real deployment, or generalization across topology
 and load.
+The BudgetedLNS candidate-evaluation count and the FullResched MPC rollout
+depth are implementation-specific and are not matched by a common
+wall-clock or candidate-evaluation budget. The comparison is therefore an
+outcome comparison under the frozen implementations, not a claim of
+computational-efficiency superiority.
 
 \subsection{Hotspot onset and component ablation}\label{hotspot-onset-and-component-ablation}
 
@@ -690,6 +695,11 @@ operationally useful only when the trial-level guard and final repair can
 accommodate feasibility recovery; the 1\% boundary makes that condition
 explicit, and the final schedule is not guaranteed to satisfy the nominal
 budget.
+
+The fixed implementations also leave computational-budget fairness open:
+BudgetedLNS explores a bounded candidate pool, whereas FullResched uses a
+three-step MPC rollout. Runtime was retained for provenance and is not used
+as evidence that either implementation is computationally superior.
 
 The study is limited to one implemented simulator, \texttt{N=180}, three
 persistent hotspot mechanisms, and tested budgets. It does not validate

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.9)  6 SEP 2026 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.9)  6 SEP 2026 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,7 +561,7 @@ ut line 276.
 File: figures/Fig2_Primary_Comparison.pdf Graphic file (type pdf)
 <use figures/Fig2_Primary_Comparison.pdf>
 Package pdftex.def Info: figures/Fig2_Primary_Comparison.pdf  used on input lin
-e 512.
+e 517.
 (pdftex.def)             Requested size: 390.0pt x 343.18988pt.
  (./tables/Paper2_Main_Results_Table.tex)
 
@@ -574,8 +574,8 @@ e 512.
 <figures/Fig3_Paired_Effects.pdf, id=320, 527.58856pt x 217.33395pt>
 File: figures/Fig3_Paired_Effects.pdf Graphic file (type pdf)
 <use figures/Fig3_Paired_Effects.pdf>
-Package pdftex.def Info: figures/Fig3_Paired_Effects.pdf  used on input line 56
-7.
+Package pdftex.def Info: figures/Fig3_Paired_Effects.pdf  used on input line 57
+2.
 (pdftex.def)             Requested size: 390.0pt x 160.66211pt.
 
 
@@ -583,7 +583,7 @@ Package pdftex.def Info: figures/Fig3_Paired_Effects.pdf  used on input line 56
 <figures/Fig4_Hotspot_Onset.pdf, id=342, 526.11295pt x 327.08998pt>
 File: figures/Fig4_Hotspot_Onset.pdf Graphic file (type pdf)
 <use figures/Fig4_Hotspot_Onset.pdf>
-Package pdftex.def Info: figures/Fig4_Hotspot_Onset.pdf  used on input line 593
+Package pdftex.def Info: figures/Fig4_Hotspot_Onset.pdf  used on input line 598
 .
 (pdftex.def)             Requested size: 390.0pt x 242.47202pt.
 
@@ -593,13 +593,13 @@ Package pdftex.def Info: figures/Fig4_Hotspot_Onset.pdf  used on input line 593
 File: figures/Fig5_Component_Ablation.pdf Graphic file (type pdf)
 <use figures/Fig5_Component_Ablation.pdf>
 Package pdftex.def Info: figures/Fig5_Component_Ablation.pdf  used on input lin
-e 620.
+e 625.
 (pdftex.def)             Requested size: 390.0pt x 162.25229pt.
 <figures/Fig7_Mechanism_Diagnostics.pdf, id=364, 527.1754pt x 189.66779pt>
 File: figures/Fig7_Mechanism_Diagnostics.pdf Graphic file (type pdf)
 <use figures/Fig7_Mechanism_Diagnostics.pdf>
 Package pdftex.def Info: figures/Fig7_Mechanism_Diagnostics.pdf  used on input 
-line 642.
+line 647.
 (pdftex.def)             Requested size: 390.0pt x 140.31721pt.
 
 
@@ -608,20 +608,20 @@ line 642.
 File: figures/Fig6_Guard_Sensitivity.pdf Graphic file (type pdf)
 <use figures/Fig6_Guard_Sensitivity.pdf>
 Package pdftex.def Info: figures/Fig6_Guard_Sensitivity.pdf  used on input line
- 666.
+ 671.
 (pdftex.def)             Requested size: 390.0pt x 147.41927pt.
 
 
 [18 <./figures/Fig7_Mechanism_Diagnostics.pdf>]
 
 [19 <./figures/Fig6_Guard_Sensitivity.pdf>] (./main.bbl
-Underfull \hbox (badness 1394) in paragraph at lines 730--1
+Underfull \hbox (badness 1394) in paragraph at lines 740--1
 []\T1/cmr/m/n/12 (+20) The code and simulator-generated data are pub-licly avai
 l-able in
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 730--1
+Underfull \hbox (badness 1810) in paragraph at lines 740--1
 \T1/cmr/m/n/12 (+20) the GitHub repos-i-tory []\T1/cmr/m/it/12 (+20) Migration-
 Guarded-Local-Reconfiguration-Under-
  []
@@ -672,7 +672,7 @@ ist/fonts/type1/public/cm-super/sfti0700.pfb><e:/Application/texlive/2025/texmf
 mf-dist/fonts/type1/public/cm-super/sfti1200.pfb><e:/Application/texlive/2025/t
 exmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><e:/Application/texlive/2025
 /texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (23 pages, 848141 bytes).
+Output written on main.pdf (23 pages, 848648 bytes).
 PDF statistics:
  618 PDF objects out of 1000 (max. 8388607)
  437 compressed objects within 5 object streams
