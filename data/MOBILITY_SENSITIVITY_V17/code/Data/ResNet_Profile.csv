@@ -1,0 +1,8 @@
+Layer_Name,Input_MB,Comp_GFLOPs,Jetson_Nano_Latency_ms,Pi4B_Latency_ms
+Input,12.0,0.0,0.0,0.0
+Conv1,12.0,0.8,12.5,45.2
+Res1,6.0,1.5,25.1,95.5
+Res2,3.0,2.5,42.8,160.2
+Res3,1.5,3.8,58.2,220.1
+FC,0.008,0.01,1.5,5.2
+Output,0.008,0.0,0.0,0.0

@@ -14,9 +14,13 @@ provided simulator and experimental scripts; no separate external dataset was
 used.
 
 The main data products are stored under `data/` and include formal evaluation,
-hotspot-onset evaluation, component ablation, sensitivity analysis, and
-admission validation. The corresponding figure source data are stored under
-`figures/`.
+hotspot-onset evaluation, component ablation, sensitivity analysis, admission
+validation, and the v17 mobility-intensity sensitivity. The v17 evidence is
+under `data/MOBILITY_SENSITIVITY_V17/` and tests independent per-slot
+position-jitter standard deviations of 15 m, 35 m, and 70 m. It contains the
+formal runner, raw run-level and slot-level CSV outputs, audit scripts, audit
+reports, and paired-analysis outputs. The corresponding figure source data are
+stored under `figures/`.
 
 The reported migration metric counts admitted-to-admitted node changes.
 Admission and rejection transitions are separately identified by the revised
@@ -31,7 +35,7 @@ Target: *Pervasive and Mobile Computing* (Elsevier official `elsarticle.cls` sou
 - `code/Environment/`, `code/Data/`, `code/Utils/`: simulator, hardware profiles and metric/repair utilities.
 - `code/Run_Paper2_Revision.m`: principal MATLAB entry point for the frozen revision protocol.
 - `code/analyze_paper2_revision.py`, `code/make_paper2_revision_figures.py`: analysis and figure regeneration.
-- `data/`: formal, hotspot-onset, ablation and sensitivity CSV tables, including admission validation.
+- `data/`: formal, hotspot-onset, ablation and sensitivity CSV tables, including admission validation and v17 mobility-sensitivity evidence.
 - `figures/`: canonical final figure exports and source-data CSV files.
 - `manuscript/elsevier_official/`: current Elsevier source, bibliography, tables and PDF.
 - `submission_docs/`: citation/claim audits, highlights, cover-letter draft, graphical-abstract status and author-completion checklist.
@@ -45,4 +49,4 @@ Target: *Pervasive and Mobile Computing* (Elsevier official `elsarticle.cls` sou
 
 ## Claim boundary
 
-The current manuscript supports the tested N=180 setting, three persistent-hotspot profiles, the tested 1%/5%/10% budgets, and the implemented HIVE internal comparator. HIVE is not a published method or a bibliography entry. It does not claim cross-topology, real-deployment or universal budget optimality. `MigrationMB` and repair overrides retain the definitions stated in the manuscript and are not physical packet captures.
+The current manuscript supports the tested N=180 setting, three persistent-hotspot profiles, the tested 1%/5%/10% budgets, the implemented HIVE internal comparator, and the v17 one-factor mobility-intensity sensitivity at 15/35/70 m. HIVE is not a published method or a bibliography entry. The v17 sensitivity does not independently vary task composition or hotspot severity and does not establish behavior under physical user trajectories. The study does not claim cross-topology, real-deployment or universal budget optimality. `MigrationMB` is a profile-derived volume proxy, and `inter-slot budget excesses` are audit records of total inter-slot changes above the local-trial budget; neither is a packet-level network trace or a physical migration measurement.

@@ -31,6 +31,20 @@ N.~Abbas, Y.~Zhang, A.~Taherkordi, T.~Skeie, Mobile edge computing: A survey,
 \newblock \href {https://doi.org/10.1109/JIOT.2017.2750180}
   {\path{doi:10.1109/JIOT.2017.2750180}}.
 
+\bibitem{pan2024joint}
+J.-S. Pan, Q.-Y. Yang, S.-C. Chu, H.-C. Chao, A joint edge server and service
+  deployment method in c-ran with multi-layer mec for multi-communities, IEEE
+  Internet of Things Journal (2024).
+\newblock \href {https://doi.org/10.1109/JIOT.2024.3471817}
+  {\path{doi:10.1109/JIOT.2024.3471817}}.
+
+\bibitem{yang2024satisfaction}
+Q.-Y. Yang, S.-C. Chu, C.-C. Hu, L.~Kong, J.-S. Pan, A task offloading method
+  based on user satisfaction in c-ran with mobile edge computing, IEEE
+  Transactions on Mobile Computing 23~(4) (2024) 3452--3465.
+\newblock \href {https://doi.org/10.1109/TMC.2023.3275580}
+  {\path{doi:10.1109/TMC.2023.3275580}}.
+
 \bibitem{wang2018migration}
 S.~Wang, J.~Xu, N.~Zhang, Y.~Liu, A survey on service migration in mobile edge
   computing, IEEE Access 6 (2018) 23511--23528.
@@ -66,7 +80,7 @@ K.~Ray, A.~Banerjee, N.~C. Narendra, Proactive microservice placement and
 \bibitem{xu2021pdma}
 M.~Xu, Q.~Zhou, H.~Wu, W.~Lin, K.~Ye, C.~Xu, Pdma: Probabilistic service
   migration approach for delay-aware and mobility-aware mobile edge computing,
-  Software: Practice and Experience 52~(2) (2021) 394--414.
+  Software: Practice and Experience 52~(2) (2022) 394--414.
 \newblock \href {https://doi.org/10.1002/SPE.3014}
   {\path{doi:10.1002/SPE.3014}}.
 
