@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.svg binary
+*.tiff binary
+*.mat binary
+*.aux binary
+*.blg binary
+*.fdb_latexmk binary
+*.fls binary
+*.log binary
+*.out binary
+*.spl binary

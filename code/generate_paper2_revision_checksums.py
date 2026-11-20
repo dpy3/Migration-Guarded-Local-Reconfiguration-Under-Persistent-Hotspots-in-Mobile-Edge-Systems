@@ -29,7 +29,12 @@ def main() -> None:
     output = args.output.resolve() if args.output else package / "CHECKSUMS_SHA256.txt"
     files = sorted(
         path for path in package.rglob("*")
-        if path.is_file() and path.name not in EXCLUDED_NAMES and path.resolve() != output
+        if (
+            path.is_file()
+            and path.name not in EXCLUDED_NAMES
+            and ".git" not in path.parts
+            and path.resolve() != output
+        )
     )
     lines = [f"{sha256(path)}  {path.relative_to(package).as_posix()}" for path in files]
     output.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
